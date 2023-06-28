@@ -28,6 +28,7 @@
               "src/styles.css"
             ],
             "scripts": []
+
           },
           "configurations": {
             "production": {
@@ -77,6 +78,7 @@
         "test": {
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
+
             "polyfills": [
               "zone.js",
               "zone.js/testing"
@@ -94,5 +96,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }

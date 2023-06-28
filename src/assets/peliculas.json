@@ -1,0 +1,49 @@
+[
+    {
+      "titulo": "Indiana Jones 5",
+      "genero": "Accion",
+      "lanzamiento": 2023
+    },
+    {
+      "titulo": "La La Land: ciudad de sueños",
+      "genero": "Drama",
+      "lanzamiento": 2016
+    },
+    {
+      "titulo": "John Wick 4",
+      "genero": "Accion",
+      "lanzamiento": 2023
+    },
+    {
+      "titulo": "Elemental",
+      "genero": "Fantasia",
+      "lanzamiento": 2023
+    },
+    {
+      "titulo": "Star Wars: El retorno del Jedi",
+      "genero": "Accion",
+      "lanzamiento": 1983
+    },
+    {
+      "titulo": "Blue Beetle",
+      "genero": "Drama",
+      "lanzamiento": 2023
+    },
+    {
+      "titulo": "Toy Story 3",
+      "genero": "Aventura",
+      "lanzamiento": 2010
+    },
+    {
+      "titulo": "Vengadores Endgame",
+      "genero": "Accion",
+      "lanzamiento": 2019
+    },
+    {
+      "titulo": "Coco",
+      "genero": "Musical",
+      "lanzamiento": 2017
+    }
+
+  ]
+  
